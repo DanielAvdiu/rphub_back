@@ -1,64 +1,66 @@
-[
-    {
-        "id": 1,
-        "author": "John Doe",
-        "title": "My Story",
-        "summary": "Short summary of the story"
-    },
-    {
-        "id": 2,
-        "author": "Jane Doe",
-        "title": "My Story",
-        "summary": "Short summary of the story",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio vitae ex faucibus luctus. Donec nec nis luctus, aliquam nisl quis, aliquam nisl."
-    },
-    {
-        "id": 3,
-        "author": "John Doe",
-        "title": "My Story",
-        "summary": "Short summary of the story",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio vitae ex faucibus luctus. Donec nec nis luctus, aliquam nisl quis, aliquam nisl."
-    },
-    {
-        "id": 4,
-        "author": "John Doe",
-        "title": "My Story",
-        "summary": "Short summary of the story",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio vitae ex faucibus luctus. Donec nec nis luctus, aliquam nisl quis, aliquam nisl."
-    },
-    {
-        "id": 5,
-        "author": "John Doe",
-        "title": "My Story",
-        "summary": "Short summary of the story",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio vitae ex faucibus luctus. Donec nec nis luctus, aliquam nisl quis, aliquam nisl."
-    },
-    {
-        "id": 6,
-        "author": "John Doe",
-        "title": "My Story",
-        "summary": "Short summary of the story",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio vitae ex faucibus luctus. Donec nec nis luctus, aliquam nisl quis, aliquam nisl."
-    },
-    {
-        "id": 7,
-        "author": "John Doe",
-        "title": "My Story",
-        "summary": "Short summary of the story",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio vitae ex faucibus luctus. Donec nec nis luctus, aliquam nisl quis, aliquam nisl."
-    },
-    {
-        "id": 8,
-        "author": "John Doe",
-        "title": "My Story",
-        "summary": "Short summary of the story",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio vitae ex faucibus luctus. Donec nec nis luctus, aliquam nisl quis, aliquam nisl."
-    },
-    {
-        "id": 9,
-        "author": "John Doe",
-        "title": "My Story",
-        "summary": "Short summary of the story",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio vitae ex faucibus luctus. Donec nec nis"
-    }
-]
+{
+    "stories": [
+        {
+            "id": 1,
+            "author": "John Doe",
+            "title": "My Story",
+            "summary": "Short summary of the story"
+        },
+        {
+            "id": 2,
+            "author": "Jane Doe",
+            "title": "My Story",
+            "summary": "Short summary of the story",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio vitae ex faucibus luctus. Donec nec nis luctus, aliquam nisl quis, aliquam nisl."
+        },
+        {
+            "id": 3,
+            "author": "John Doe",
+            "title": "My Story",
+            "summary": "Short summary of the story",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio vitae ex faucibus luctus. Donec nec nis luctus, aliquam nisl quis, aliquam nisl."
+        },
+        {
+            "id": 4,
+            "author": "John Doe",
+            "title": "My Story",
+            "summary": "Short summary of the story",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio vitae ex faucibus luctus. Donec nec nis luctus, aliquam nisl quis, aliquam nisl."
+        },
+        {
+            "id": 5,
+            "author": "John Doe",
+            "title": "My Story",
+            "summary": "Short summary of the story",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio vitae ex faucibus luctus. Donec nec nis luctus, aliquam nisl quis, aliquam nisl."
+        },
+        {
+            "id": 6,
+            "author": "John Doe",
+            "title": "My Story",
+            "summary": "Short summary of the story",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio vitae ex faucibus luctus. Donec nec nis luctus, aliquam nisl quis, aliquam nisl."
+        },
+        {
+            "id": 7,
+            "author": "John Doe",
+            "title": "My Story",
+            "summary": "Short summary of the story",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio vitae ex faucibus luctus. Donec nec nis luctus, aliquam nisl quis, aliquam nisl."
+        },
+        {
+            "id": 8,
+            "author": "John Doe",
+            "title": "My Story",
+            "summary": "Short summary of the story",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio vitae ex faucibus luctus. Donec nec nis luctus, aliquam nisl quis, aliquam nisl."
+        },
+        {
+            "id": 9,
+            "author": "John Doe",
+            "title": "My Story",
+            "summary": "Short summary of the story",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio vitae ex faucibus luctus. Donec nec nis"
+        }
+    ]
+}
