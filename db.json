@@ -54,5 +54,21 @@
             "title": "My Story",
             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio vitae ex faucibus luctus. Donec nec nis"
         }
+    ],
+    "treatments":[
+        {
+            "id": 1,
+            "author": "John Doe",
+            "title": "My Story",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio vitae ex faucibus luctus. Donec nec nis luctus, aliquam nisl quis, aliquam nisl.",
+            "link": "http://www.google.com"
+        },
+        {
+            "id": 2,
+            "author": "Jane Doe",
+            "title": "My Story",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio vitae ex faucibus luctus. Donec nec nis luctus, aliquam nisl quis, aliquam nisl.",
+            "link": "http://www.google.com"
+        }
     ]
 }
